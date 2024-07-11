@@ -1,16 +1,15 @@
 ## Hi there 👋
+🌱 I’m currently learning java, C# and SQL
 
-<!--
-**solesen1992/solesen1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
+AP Graduate in Computer Science
 
-Here are some ideas to get you started:
+## Github stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=solesen1992" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=solesen1992&layout=compact&langs_count=8&card_width=320" />
+</a>
+
