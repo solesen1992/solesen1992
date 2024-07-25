@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Sara
-🌱 I’m currently learning java, C# and SQL
+🌱 I’m currently learning java, C# and MS SQL.
 
-🌿 I have a background in UI/UX design, front-end development, and concept development.
+🌿 I have a background in UI/UX design, front-end development, and concept development. It gives me a good understanding of business and a user point of view.
 
 ## 🔭 I’m currently working on
 💫 AP Graduate in Computer Science 
