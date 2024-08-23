@@ -17,7 +17,9 @@ I'm learning about:
 
 🔑 Databases
 
-🔒 System development
+💾 Web development
+
+🔒 System development (UML)
 
 💻 Technology in general (threads, concurrency etc.)
 
