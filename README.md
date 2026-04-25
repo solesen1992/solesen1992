@@ -1,30 +1,28 @@
 ## Hi there 👋, I'm Sara
 
-💻 AP Graduate in Computer Science (Datamatiker) with a background in UX, frontend and concept development.
+💻 I’m an AP Graduate in Computer Science with a background in UX, frontend and concept development.
 
-🌿 I’m interested in how technology and user experience come together - not just how something works, but how it feels and creates value for the people using it.
-
-🌐 I also have a solid understanding of networks, servers and general IT infrastructure.
-
-🌱 I also have experience with WordPress and maintaining multiple websites, where I work with both structure, content and small technical adjustments.
+🌿 I like building systems that don’t just work, but also make sense for the people using them.
 
 
-
-🛠️ My experience includes:
-- Frontend development (Vue 3)
-- Backend development (C#, Java, REST APIs)
+🛠️ Tech & experience
+- Frontend (Vue 3)
+- Backend (C#, Java, REST APIs)
 - Databases (SQL)
 - System design (UML)
-
+- Some knowledge of networks and general IT infrastructure
+- Experience with WordPress and maintaining websites
 
 ## 🔭 I’m currently working on
-💫 Building solutions where I can combine technical implementation with usability and real user needs.
+
+Right now I’m focusing on building solutions where code and user experience go hand in hand.
 
 
 ## 🌱 Currently exploring
-- Backend development and system architecture  
+
+- Backend development & system architecture  
 - APIs and integrations  
-- How to build solutions that are both robust and intuitive  
+- How to build solutions that are both solid and easy to use  
 
 
 ## Github stats
