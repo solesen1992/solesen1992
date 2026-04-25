@@ -1,27 +1,31 @@
 ## Hi there 👋, I'm Sara
-🌱 I’m currently learning java, C# and MS SQL.
 
-🌿 I have a background in UI/UX design, front-end development, and concept development. It gives me a good understanding of business and a user point of view.
+💻 AP Graduate in Computer Science (Datamatiker) with a background in UX, frontend and concept development.
 
-💾 I have some general knowledge of networks, servers and hardware in computers.
+🌿 I’m interested in how technology and user experience come together - not just how something works, but how it feels and creates value for the people using it.
+
+🌐 I also have a solid understanding of networks, servers and general IT infrastructure.
+
+🌱 I also have experience with WordPress and maintaining multiple websites, where I work with both structure, content and small technical adjustments.
+
+
+
+🛠️ My experience includes:
+- Frontend development (Vue 3)
+- Backend development (C#, Java, REST APIs)
+- Databases (SQL)
+- System design (UML)
 
 
 ## 🔭 I’m currently working on
-💫 AP Graduate in Computer Science (danish: Datamatiker AK). 
+💫 Building solutions where I can combine technical implementation with usability and real user needs.
 
 
+## 🌱 Currently exploring
+- Backend development and system architecture  
+- APIs and integrations  
+- How to build solutions that are both robust and intuitive  
 
-I'm learning about:
-
-💿 Back-end development (including data structures and algorithms)
-
-🔑 Databases
-
-💾 Web development
-
-🔒 System development (UML)
-
-💻 Technology in general (threads, concurrency etc.)
 
 ## Github stats
 
