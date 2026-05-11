@@ -32,3 +32,5 @@ Right now I’m focusing on building solutions where code and user experience go
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solesen1992&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solesen1992&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=solesen1992)
