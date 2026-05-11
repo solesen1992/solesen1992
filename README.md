@@ -22,7 +22,9 @@ Right now I’m focusing on building solutions where code and user experience go
 
 - Backend development & system architecture  
 - APIs and integrations  
-- How to build solutions that are both solid and easy to use  
+- How to build solutions that are both solid and easy to use
+- AI and automation
+- Testing and QA 
 
 
 ## Github stats
